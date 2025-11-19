@@ -1,0 +1,8 @@
+pandas
+faker
+numpy
+matplotlib
+seaborn
+scikit-learn
+arabic-reshaper
+python-bidi
