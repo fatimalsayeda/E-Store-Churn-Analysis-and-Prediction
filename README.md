@@ -3,10 +3,10 @@ E-Store-Churn-Analysis-and-Prediction
 This project represents an end-to-end (E2E) solution starting with the generation of Arabic fake data, followed by data cleansing and exploratory analysis (EDA), implementation of a predictive model aimed at identifying customers at high risk of churning from an e-store  (Churn Risk). 
 
 Tech Stack (Technology & Purpose):
-Pandas, NumPy: Data manipulation and feature engineering.
-Scikit-learn: Building and evaluating the predictive model.
-Seaborn, Matplotlib: Data visualization for exploratory analysis.
 Faker, Arabic-Reshaper: Generating the fake Arabic data and formatting it.
+Pandas, NumPy: Data manipulation and feature engineering.
+Seaborn, Matplotlib: Data visualization for exploratory analysis.
+Scikit-learn: Building and evaluating the predictive model.
 
 Core Project Deliverables:
 The project is structured into
