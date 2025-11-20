@@ -1,4 +1,4 @@
-E-Store-Churn-Analysis-and-Prediction project represents an end-to-end (E2E) solution starting with the generation of Arabic fake data, followed by data cleansing and exploratory analysis (EDA), implementation of a predictive model aimed at identifying customers at high risk of churning from an e-store  (Churn Risk). 
+The E-Store-Churn-Analysis-and-Prediction project represents an end-to-end (E2E) solution, starting with the generation of Arabic fake data, followed by data cleansing and exploratory analysis (EDA), and the implementation of a predictive model aimed at identifying customers at high risk of churning from an e-store (Churn Risk).
 
 Tech Stack (Technology & Purpose):
 Faker, Arabic-Reshaper: Generating the fake Arabic data and formatting it.
